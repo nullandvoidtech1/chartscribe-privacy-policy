@@ -78,6 +78,8 @@ You can request deletion of your personal data or account by contacting the Serv
 
 Upon verification of your identity, the Service Provider will delete your personal data from its systems, except where retention is required for legal compliance or legitimate business purposes.
 
+Additionally, because the Application stores your trading journal entries locally on your device via SQLite, you can instantly delete all local data at any time by clearing the application storage in your device settings or by uninstalling the Application.
+
 **Children**
 
 The Application is not intended for children under 13 years of age, or such higher age as required by applicable law. The Service Provider does not knowingly solicit data from children or market the Application to them.
